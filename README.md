@@ -2,7 +2,7 @@
 
 **Summary**
 
-# Technical Architecture
+# Solution
 
 <p align="center">
   <img src="arch.png">
