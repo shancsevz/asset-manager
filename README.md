@@ -5,7 +5,7 @@
 # Technical Architecture
 
 <p align="center">
-  <img src="images/slide.png">
+  <img src="arch.png">
   <br/>
 </p>
 
